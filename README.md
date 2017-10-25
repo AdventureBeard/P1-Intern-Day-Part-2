@@ -15,3 +15,5 @@
 
 
 Are the requirements ambiguous? Ask questions that will help you drive your product to "DONE"!
+
+![](https://i.imgur.com/x3zTWWg.jpg)
