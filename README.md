@@ -13,3 +13,5 @@
     * Let's assume our users are ultra-trustworthy; no passwords or auth tokens needed.
 * After registration or login, the user should be taken to a placeholder main page with "Welcome {username}!" at the top. This will be expanded on in the next challenge.
 
+
+Are the requirements ambiguous? Ask questions that will help you drive your product to "DONE"!
